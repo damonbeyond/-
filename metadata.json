@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OrbitTravel",
+  "description": "Smart travel planner with AI-driven itinerary generation, real-time cost estimation, and scenic spot discovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
